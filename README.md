@@ -100,7 +100,4 @@ This project is licensed under the MIT License.
 
 Contributions are welcome! Feel free to fork, open an issue, or submit a pull request.
 
-📧 Contact
-
-For any queries or suggestions, reach out via email at your-email@example.com or open an issue in the repository.
 
